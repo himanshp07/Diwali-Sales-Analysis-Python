@@ -4,8 +4,8 @@ Overview:
 
 This project performs Exploratory Data Analysis (EDA) on a Diwali sales dataset to understand customer demographics, purchasing behavior, and product performance during the festive season. The analysis uses Python libraries to clean data, perform aggregations, and visualize meaningful insights that can help businesses improve festive sales strategies.
 
-Problem Statement:
 
+Problem Statement:
 Businesses experience a surge in sales during Diwali. Understanding-
 1. Who buys more
 2. Which age group spends the most
@@ -40,34 +40,34 @@ The following steps were performed-
 Gender-wise Analysis:
 1. Count of male vs female customers.
 2. Total sales amount by gender.
-   Insight: Female customers contribute higher overall sales compared to males.
+3. Insight: Female customers contribute higher overall sales compared to males.
 
 Age Group Analysis:
 1. Purchase distribution across age groups.
 2. Gender-wise age group comparison.
-   Insight: Age group 26–35 years shows the highest purchasing power.   
+3. Insight: Age group 26–35 years shows the highest purchasing power.   
 
 State-wise Sales:
-Top performing states based on total sales amount.
-   Insight: A few states contribute a major share of festive sales.
+1. Top performing states based on total sales amount.
+2. Insight: A few states contribute a major share of festive sales.
 
 Marital Status Analysis:
-Sales comparison based on marital status.
-   Insight: Married customers show higher purchasing trends.
+1. Sales comparison based on marital status.
+2. Insight: Married customers show higher purchasing trends.
 
 Occupation-wise Analysis:
-Sales distribution by customer occupation.
-   Insight: Customers from IT, Healthcare, and Aviation sectors spend more during Diwali.
+1. Sales distribution by customer occupation.
+2. Insight: Customers from IT, Healthcare, and Aviation sectors spend more during Diwali.
 
 Product Category Analysis:
 1. Order count per product category.
 2. Total sales amount per category.
-   Insight: Food, Clothing, and Electronics are the top-performing product categories.
+3. Insight: Food, Clothing, and Electronics are the top-performing product categories.
 
 Top Products Analysis:
 1. Identified Top 10 most sold products.
 2. Analyzed order volume by product ID.
-   Insight: A small set of products generates a large portion of total orders.   
+3. Insight: A small set of products generates a large portion of total orders.   
 
 
 How to Run This Project:
